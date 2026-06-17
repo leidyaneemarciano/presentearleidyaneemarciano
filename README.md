@@ -1,10 +1,6 @@
 # presentearleidyaneemarciano
 Lista de presente
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+Para nos presentear basta escolher qualquer item da lista de presentes, podendo ser comprado aqui no site ou em outro lugar, endereço para enviar os presentes de quem não comprar aqui no site é Rua da divisão n° 975- condominio village Paraty - casa 1410
 <title>Leidyane & Amor da Minha Vida</title>
 
 <style>
